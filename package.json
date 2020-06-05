@@ -18,7 +18,7 @@
     "underscore": "^1.8.3",
     "webpack": "^1.12.9",
     "prestart": "webpack",
-    "start": "node app-server.js"
+    "start": "node appserver.js"
   },
   "repository": {
     "type": "git",
